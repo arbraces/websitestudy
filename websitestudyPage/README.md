@@ -1,13 +1,11 @@
 # websitestudyPage
 
-### 技术栈
+## 技术栈
 - vue2.0+vue-routr (核心框架)
 - elementUI (UI框架)
 - axios (请求)
 
-
-------------
-
+## 使用
 
 ### 1.安装依赖 
 先执行 npm install 安装依赖。然后有如下命令可用：
