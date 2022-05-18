@@ -19,5 +19,6 @@
 - DB_USERNAME
 - DB_PASSWORD
 
-#### 4.启动项目：
+### 使用
+#### 1.启动项目：
 `php artisan serve`
