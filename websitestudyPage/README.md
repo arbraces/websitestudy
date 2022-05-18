@@ -1,19 +1,10 @@
-# websitestudy
+# websitestudyPage
 
-## Project setup
-```
-npm install
-```
+------------
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+# 安装依赖 
+先执行 npm install 安装依赖。然后有如下命令可用：
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- `npm run serve` 启动项目
+- `npm run build` 打包项目
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
